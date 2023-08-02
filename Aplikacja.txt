@@ -3,3 +3,11 @@ public void logowanie(){
 	System.out.println("Podaj hasło");
 	System.out.println("Kliknij na przycisk zaloguj");
     }
+<<<<<<< HEAD
+=======
+public void logowanie(){
+	System.out.println("Podaj email z gmaila");
+	System.out.println("Podaj hasło");
+	System.out.println("Kliknij na przycisk zaloguj");
+    }
+>>>>>>> klient101
